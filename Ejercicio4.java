@@ -40,7 +40,7 @@ public class Codigo4 {
                     break;
 
                 default:
-                    System.out.println("Opción inválida del jugador 1");
+                    System.out.println("Opcion invalida ");
                     return;
             }
 
